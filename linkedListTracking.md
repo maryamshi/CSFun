@@ -4,18 +4,18 @@ Shruti's Solution:
 My gist:
 
 Build a LinkedList with the following methods:
-- [ ] Append data
-- [ ] Prepend data
-- [ ] Print values of all nodes
-- [ ] Remove the first node that contains a given value
-- [ ] Count the number of nodes in the LinkedList.
-- [ ] Search for a value in the LinkedList. Return true if the value is found, false otherwise.
-- [ ] Delete a node with a specificvalue from the linked list.
-- [ ] Remove the first*k*nodes from the linked list
-- [ ] Reverse a linked list.
-- [ ] Return the data in the*k*th node from the end, starting the count at 0.
-- [ ] Return the value of the middle node in the linked list.
-- [ ] Return true, if the linked list has a cycle. Return false if the linked list terminated with nil and does not have a cycle.
+- [x ] Append data
+- [ x] Prepend data
+- [x ] Print values of all nodes
+- [ x] Remove the first node that contains a given value
+- [ x] Count the number of nodes in the LinkedList.
+- [ x] Search for a value in the LinkedList. Return true if the value is found, false otherwise.
+- [ x] Delete a node with a specificvalue from the linked list.
+- [ x] Remove the first*k*nodes from the linked list
+- [ x] Reverse a linked list.
+- [ x] Return the data in the*k*th node from the end, starting the count at 0.
+- [ x] Return the value of the middle node in the linked list.
+- [ x] Return true, if the linked list has a cycle. Return false if the linked list terminated with nil and does not have a cycle.
 *provide time and space complexities for algorithms
 
 Test Cases:
