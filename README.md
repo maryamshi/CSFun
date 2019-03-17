@@ -1,4 +1,3 @@
 # CSFun
 
-CS Fundamentals Class Internship Sessions
-Keeing track of all the things we are covering at Ada
+Keeing track of all the CS Fundamentals content we are covering at Ada during internships
