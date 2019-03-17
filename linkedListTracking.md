@@ -1,7 +1,5 @@
 # CS Fun LinkedList
-Slides: [Gmail](https://mail.google.com/mail/u/0/#search/shruti%40adadevelopersacademy.org/FMfcgxwBVzpsSsSzjcHLSLLQLNmgsBrV?projector=1)
-Shruti's Solution:
-My gist:
+Class Slides: [Gmail](https://mail.google.com/mail/u/0/#search/shruti%40adadevelopersacademy.org/FMfcgxwBVzpsSsSzjcHLSLLQLNmgsBrV?projector=1)
 
 Build a LinkedList with the following methods:
 - [x ] Append data
